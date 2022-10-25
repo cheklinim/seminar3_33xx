@@ -145,3 +145,8 @@ VSСode дает возможность выбрать какое изменен
 
     git remote rename <last_name> <new_name>
 
+
+Для удаления ссылки на внешний репозитории используйте
+
+    git remote rm <name>
+
