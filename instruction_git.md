@@ -140,3 +140,8 @@ VSСode дает возможность выбрать какое изменен
 
     git remote show <remote_name>
 
+
+Для переименования названия внешнего репозитория используйте
+
+    git remote rename <last_name> <new_name>
+
