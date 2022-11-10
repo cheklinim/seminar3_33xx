@@ -148,3 +148,14 @@ VSСode дает возможность выбрать какое изменен
     4. отправляем на github свою версию
     5. на сайте github нажимаем кнопку Pull request
 
+## Настройка совместной работы
+
+Что бы настроить совместную работу нужно настроить работу Git с GitHub.com:
+
+    1. создать аккаунт на github.com
+    2. создать локальный репозиторий
+    3. нажать в профиле new и воспользоваться командами с github.com
+    git remote add origin https://github.com/KpeLLIek/<название на сайте>.git
+    git branch -M main(или master)
+    git push -u origin main(или master)
+
